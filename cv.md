@@ -1,13 +1,13 @@
 # Victoria Tonkovich
 
-## Contacts
+### Contacts
 
 - **Phone:** [+375 29 772 35 28](tel:+375297723528)
 - **E-mail:** [tonkovich.vika@gmail.com](mailto:tonkovich.vika@gmail.com)
 - **Telegram:** [thkvch](https://t.me/tnkvch)
 - **GitHub:** [vicadin](https://github.com/vicadin)
 
-## About Me
+### About Me
 
 Hi there!
 
@@ -16,7 +16,7 @@ My academic background, complemented by real-worldexperience, helps me to solve 
 
 I believe that my strong desire to learn new skills will help me become an expert.
 
-## Skills
+### Skills
 
 - HTML
 - CSS, Tailwind, Bootstrap
@@ -25,7 +25,7 @@ I believe that my strong desire to learn new skills will help me become an exper
 - GitHub, Bitbucket
 - Figma, Adobe Photoshop, Adobe Illustrator, CorelDraw
 
-## Code example
+### Code example
 
 ```
 function multiply(a, b){
@@ -33,7 +33,7 @@ function multiply(a, b){
 }
 ```
 
-## Work experience
+### Work experience
 
 - **SWAG42** _2022-2023_
   Frontend developer
@@ -44,7 +44,7 @@ function multiply(a, b){
 - **CJSC “InterBusinessCenter”** _2018-2019_
   HTML coder
 
-## Education
+### Education
 
 - **Belarusian State Technological University** _2014-2018_
   - Faculty of Information Technology, Design of electronic and web publications
@@ -52,7 +52,7 @@ function multiply(a, b){
   - Modern Front-End with JavaScript and HTML5
 - **SkyEng** _2020-2022_
 
-## Languages
+### Languages
 
 - **Belarusian** - native speaker.
 - **English** - A2
